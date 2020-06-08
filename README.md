@@ -15,7 +15,6 @@ git clone https://github.com/gpakosz/.tmux.git
 mkdir .tmux_resurrect
 git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux_resurrect
 git clone https://github.com/spotify2junkie/my_tmux && cd my_tmux
-# sed 命令可直接跳过;如果你想替换左下角天气城市 , city_name 写拼音或者airport_code
 cp .tmux.conf* ~/
 ```
 
